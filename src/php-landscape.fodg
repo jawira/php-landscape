@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:creation-date>2018-05-02T20:42:17.387528758</meta:creation-date><dc:date>2018-05-12T23:45:03.368678075</dc:date><meta:editing-duration>PT1H40M47S</meta:editing-duration><meta:editing-cycles>12</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><meta:document-statistic meta:object-count="22"/></office:meta>
+ <office:meta><meta:creation-date>2018-05-02T20:42:17.387528758</meta:creation-date><dc:date>2018-05-14T19:33:05.437640470</dc:date><meta:editing-duration>PT1H49M</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><meta:document-statistic meta:object-count="26"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-2869</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-4651</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">58208</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">34479</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-1164</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-5768</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">53525</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">32041</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-2869</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-4651</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">58209</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">34480</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-1164</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-5768</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">53526</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">32042</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -436,13 +436,33 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="Logos" svg:width="3.58cm" svg:height="2cm" svg:x="3.7cm" svg:y="18cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P6" draw:layer="Logos" svg:width="3.58cm" svg:height="2cm" svg:x="4.2cm" svg:y="18.2cm">
      <draw:image xlink:href="../resources/logos/phpmyadmin.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="Logos" svg:width="5cm" svg:height="0.79cm" svg:x="3.4cm" svg:y="20.91cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P6" draw:layer="Logos" svg:width="5cm" svg:height="0.79cm" svg:x="3.4cm" svg:y="20.91cm">
      <draw:image xlink:href="../resources/logos/adminer.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="1.5cm" svg:height="1.967cm" svg:x="12.8cm" svg:y="18.233cm">
+     <draw:image xlink:href="../resources/logos/doctrine.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="2.3cm" svg:height="2.209cm" svg:x="15.6cm" svg:y="17.8cm">
+     <draw:image xlink:href="../resources/logos/redbeanphp.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="4.219cm" svg:height="1.128cm" svg:x="13.981cm" svg:y="21cm">
+     <draw:image xlink:href="../resources/logos/propel.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:width="4.629cm" svg:height="4.259cm" svg:x="2.871cm" svg:y="22.541cm">
+     <draw:image xlink:href="../resources/logos/joomla.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
       <text:p/>
      </draw:image>
     </draw:frame>
