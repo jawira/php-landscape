@@ -1,0 +1,15 @@
+{
+    "name": "jawira/php-landscape",
+    "type": "project",
+    "description": "Php landscape map",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Jawira Portugal"
+        }
+    ],
+    "require": {
+        "jawira/skeleton": "^1.0",
+        "pds/skeleton": "^1.0"
+    }
+}
