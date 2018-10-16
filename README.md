@@ -17,6 +17,6 @@ Inspiration
 
 1. https://github.com/cncf/landscape
 2. https://github.com/kamranahmedse/developer-roadmap
-
+3. https://medium.com/@eytanmessika/mapping-the-world-artificial-intelligence-landscapes-223f752efa4
 
 [LibreOffice Draw]: https://fr.libreoffice.org/discover/draw/
